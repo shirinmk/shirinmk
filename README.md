@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shirinmk
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning and reviewing different languages
-- 💞️ I’m looking to collaborate on enhance my coding skills
+- 💞️ I’m looking to collaborate on to enhance my coding skills
 - 📫 How to reach me manoochehriedw@gmail.com
 
 <!---
